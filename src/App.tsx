@@ -5,7 +5,7 @@ import FloatingWhatsApp from "./components/FloatingWhatsApp";
 import Home from "./pages/Home";
 import Residential from "./pages/Residential";
 import Office from "./pages/Office";
-import Consulting from "./pages/Consulting";
+import Consulting from "./pages/consulting";
 
 export default function App() {
   return (
